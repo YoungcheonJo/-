@@ -3,7 +3,7 @@
 //  MapPinPLiist
 //
 //  Created by L703 on 2017. 12. 2..
-//  Copyright © 2017년 김종현. All rights reserved.
+//  Copyright © 림. All rights reserved.
 //
 
 import UIKit
@@ -16,6 +16,7 @@ class SecondViewController: UIViewController {
         super.viewDidLoad()
         testLabel.text = testLabelData
         // Do any additional setup after loading the view.
+        //1
     }
 
     override func didReceiveMemoryWarning() {
